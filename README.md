@@ -38,3 +38,16 @@ Enables deeper insight into individual stock performance
  View Individual Stock Tracker
  https://public.tableau.com/app/profile/tshilidzi4729/viz/IndividualStockTraker/IndividualStockTracker?publish=yes
 
+ 🌍 Global Superstore Dashboard
+A business insights dashboard built using the popular Global Superstore dataset.
+
+Highlights total revenue, profit, order volume, and average order value
+
+Uses a line and area chart to compare monthly sales vs profit
+
+Features a bubble chart for sales by customer segment
+
+Includes a year selector parameter to filter KPIs and charts (2011–2014)
+
+🔗 https://public.tableau.com/app/profile/tshilidzi4729/viz/GlobalSuperstore_17538853898250/Dashboard1?publish=yes
+
